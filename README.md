@@ -8,6 +8,6 @@ $ pkg install python\
 $ pkg install git\
 $ python3 -m pip install requests\
 $ python3 -m pip install bs4\
-$ git clone https://github.com/androprojek/freessh.git\
+$ git clone https://github.com/androprojek/freessh.git \
 $ cd fressh\
 $ python ssh.py\
