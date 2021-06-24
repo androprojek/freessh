@@ -10,7 +10,7 @@ $ python3 -m pip install requests\
 $ python3 -m pip install bs4\
 $ git clone https://github.com/androprojek/freessh.git \
 $ cd fressh\
-$ python ssh.py\
+$ python ssh.py
 
 join telegram for more info\
 https://t.me/confighttp
